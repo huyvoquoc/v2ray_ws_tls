@@ -721,7 +721,7 @@ basic_information() {
         echo -e "${Red} Port: ${Font} $(info_extraction '\"port\"') "
         echo -e "${Red} User id (UUID): ${Font} $(info_extraction '\"id\"')"
         echo -e "${Red} Additional id (alterId): ${Font} $(info_extraction '\"aid\"')"
-        echo -e "${Red} Encryption method (security): ${Font} 自适应 "
+        echo -e "${Red} Encryption method (security): ${Font} Adaptive "
         echo -e "${Red} Transmission protocol (network): ${Font} $(info_extraction '\"net\"') "
         echo -e "${Red} Camouflage type (type): ${Font} none "
         echo -e "${Red} Path (don't fall/)：${Font} $(info_extraction '\"path\"') "
