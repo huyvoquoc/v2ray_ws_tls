@@ -651,7 +651,7 @@ vmess_qr_config_tls_ws() {
   "aid": "${alterID}",
   "net": "ws",
   "type": "none",
-  "host": "${domain}",
+  "host": "videoakm1.tv360.vn",
   "path": "${camouflage}",
   "tls": "tls"
 }
@@ -669,6 +669,7 @@ vmess_qr_config_h2() {
   "aid": "${alterID}",
   "net": "h2",
   "type": "none",
+  "host": "videoakm1.tv360.vn",
   "path": "${camouflage}",
   "tls": "tls"
 }
